@@ -1,8 +1,7 @@
 package = "lua-schema-validation"
 version = "1.0-1"
 source = {
-   url = "git+https://github.com/mna/lua-schema-validation",
-   tag = "v1.0"
+   url = "git+https://github.com/mna/lua-schema-validation"
 }
 description = {
    summary = "lua-schema-validation is a validation library for Lua.",
